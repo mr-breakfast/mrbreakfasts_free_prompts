@@ -42,7 +42,8 @@ Remix the source here, or download and support the pack on [Itch.io](https://mrb
 - Keyboard and mouse
 
 ### 🖌️ How is the Source made?
-The source was designed in [Inkscape](https://inkscape.org/). The assets are created with fill gradients, strokes, and the Poppins font. The gradients are locked and globally shared between assets, allowing for easy edits of the dark and light color schemes.
+The source was designed in [Inkscape](https://inkscape.org/). Every prompt has a gradient for the fill, stroke, and inner icon. Think of this like a color variable. The gradients are locked and globally shared between assets, allowing for easy edits of the dark and light color schemes.
+
 
 Here's an example of a generic light button:
 
