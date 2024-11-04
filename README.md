@@ -53,7 +53,7 @@ And the gradients included so far:
 
 ![image](meta/gradient_names.png)
 
-Many of the triggers/bumpers were created using Inkscape's `Corner` live path effect. The keyboard keys have a separate gradient from the buttons for their light and dark schemes.
+Many of the triggers/bumpers were created using Inkscape's `Corner` live path effect. The keyboard keys have a different fill gradient from the other prompts.
 
 ### ♻️ Contributing Guide
 
