@@ -35,7 +35,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g456"
+     inkscape:current-layer="g585"
      showgrid="true"><inkscape:grid
        id="grid27"
        units="px"
@@ -13055,6 +13055,7 @@
        transform="matrix(-1,0,0,1,147.14444,75.616255)"
        inkscape:label="ps5_options_dark"><rect
          style="fill:#8a90a8;fill-opacity:1;stroke:url(#linearGradient59);stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+
          id="rect872-0"
          width="5.1737056"
          height="10.267574"
@@ -13063,6 +13064,7 @@
          rx="2.5868528"
          ry="2.5868528"
          transform="rotate(-16.83471)" /><path
+
          style="display:inline;fill:#434a5f;fill-opacity:1;stroke:url(#linearGradient699);stroke-width:0.793749;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
          d="M 80.587029,221.02827 H 78.994343"
          id="path110-8"
@@ -13079,15 +13081,8 @@
        style="display:inline"
        transform="translate(-25.136925,75.616256)"
        inkscape:label="ps5_create_dark"><rect
+
          style="fill:#8a90a8;fill-opacity:1;stroke:url(#linearGradient58);stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
-         id="rect871-1"
-         width="5.1737056"
-         height="10.267574"
-         x="9.4796381"
-         y="230.4966"
-         rx="2.5868528"
-         ry="2.5868528"
-         transform="rotate(-16.83471)" /><path
          style="display:inline;fill:#434a5f;fill-opacity:1;stroke:url(#linearGradient695);stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
          d="m 79.790684,222.70736 v -1.3394"
          id="path873-2"
@@ -13116,6 +13111,7 @@
        style="display:inline"
        transform="matrix(-1,0,0,1,147.14443,88.316256)"
        inkscape:label="ps5_options_light"><rect
+
          style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient81);stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
          id="rect872"
          width="5.1737056"
@@ -13125,6 +13121,7 @@
          rx="2.5868528"
          ry="2.5868528"
          transform="rotate(-16.83471)" /><path
+
          style="display:inline;fill:#434a5f;fill-opacity:1;stroke:url(#linearGradient945);stroke-width:0.793749;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
          d="M 80.587016,221.02828 H 78.99433"
          id="path110"

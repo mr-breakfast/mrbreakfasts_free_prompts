@@ -44,6 +44,7 @@ Remix the source here, or download and support the pack on [Itch.io](https://mrb
 ### 🖌️ How is the Source made?
 The source was designed in [Inkscape](https://inkscape.org/). Every prompt has a gradient for the fill, stroke, and inner icon. Think of this like a color variable. The gradients are locked and globally shared between assets, allowing for easy edits of the dark and light color schemes.
 
+
 Here's an example of a generic light button:
 
 ![image](meta/button_example.png)
