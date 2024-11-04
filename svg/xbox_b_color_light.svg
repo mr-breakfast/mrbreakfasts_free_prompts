@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="47.999825"
-   height="47.999825"
-   viewBox="0 0 12.699954 12.699954"
+   width="47.999817"
+   height="47.999817"
+   viewBox="0 0 12.699952 12.699952"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -12,6 +12,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1"><linearGradient
+       id="linearGradient1"><stop
+         style="stop-color:#434a5f;stop-opacity:1;"
+         offset="1"
+         id="stop111" /><stop
+         style="stop-color:#434a5f;stop-opacity:1;"
+         offset="1"
+         id="stop112" /></linearGradient><linearGradient
        id="linearGradient301"><stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0.68779135"
@@ -27,24 +34,24 @@
        cy="191.03438"
        fx="388.60379"
        fy="191.03438"
-       r="5.3493915" /></defs><g
+       r="5.3493915" /><linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient442"
+       x1="383.25916"
+       y1="192.38565"
+       x2="393.95795"
+       y2="192.38565"
+       gradientUnits="userSpaceOnUse" /></defs><g
      id="g583"
      style="display:inline"
      transform="translate(-76.200072,-152.4)"><g
        id="g474"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-378.74641,-69.620757)"><circle
-         style="fill:url(#radialGradient542);stroke:#434a5f;stroke-width:0.999961;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       transform="matrix(1.1870466,0,0,1.1870466,-378.74641,-69.620757)"><path
          id="circle474"
-         cx="388.60855"
-         cy="192.38565"
-         r="4.849411" /><text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.94379px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:0.131671px;text-anchor:middle;fill:#fc551d;fill-opacity:1;stroke-width:1.99061;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.98122, 1.99061;paint-order:fill markers stroke"
-         x="388.60556"
-         y="194.02614"
-         id="text474"><tspan
-           id="tspan474"
-           style="font-size:5.94379px;text-align:center;text-anchor:middle;fill:#fc551d;fill-opacity:1;stroke-width:1.99061;paint-order:fill markers stroke"
-           x="388.67139"
-           y="194.02614">B</tspan></text></g></g></svg>
+         style="fill:url(#radialGradient542);stroke:url(#linearGradient442);stroke-width:0.999961;stroke-linecap:round;stroke-linejoin:round"
+         d="m 393.45796,192.38565 a 4.849411,4.849411 0 0 1 -4.84941,4.84941 4.849411,4.849411 0 0 1 -4.84941,-4.84941 4.849411,4.849411 0 0 1 4.84941,-4.84941 4.849411,4.849411 0 0 1 4.84941,4.84941 z" /><path
+         d="m 389.54171,191.88637 q 0.36257,0.0773 0.58249,0.36258 0.21992,0.27935 0.21992,0.64192 0,0.52306 -0.36852,0.83214 -0.36257,0.30313 -1.01639,0.30313 h -1.94361 v -4.17254 h 1.87823 q 0.63599,0 0.99262,0.29124 0.36257,0.29125 0.36257,0.79053 0,0.36851 -0.19615,0.61221 -0.1902,0.24369 -0.51116,0.33879 z m -1.50973,-0.34474 h 0.66571 q 0.24964,0 0.3804,-0.10698 0.13671,-0.11294 0.13671,-0.32691 0,-0.21398 -0.13671,-0.32691 -0.13076,-0.11293 -0.3804,-0.11293 h -0.66571 z m 0.74892,1.66427 q 0.25558,0 0.39229,-0.11294 0.14265,-0.11887 0.14265,-0.33879 0,-0.21992 -0.14859,-0.34474 -0.14265,-0.12482 -0.39824,-0.12482 h -0.73703 v 0.92129 z"
+         id="text474"
+         style="font-weight:bold;font-size:5.94379px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:0.131671px;text-anchor:middle;fill:#fc551d;stroke-width:1.99061;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.98122, 1.99061"
+         aria-label="B" /></g></g></svg>

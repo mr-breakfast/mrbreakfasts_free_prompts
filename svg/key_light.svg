@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="37.764977"
-   height="40.764977"
-   viewBox="0 0 9.9919834 10.785733"
+   width="37.764996"
+   height="40.764969"
+   viewBox="0 0 9.9919884 10.785731"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -12,6 +12,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1"><linearGradient
+       id="linearGradient1"><stop
+         style="stop-color:#434a5f;stop-opacity:1;"
+         offset="1"
+         id="stop111" /><stop
+         style="stop-color:#434a5f;stop-opacity:1;"
+         offset="1"
+         id="stop112" /></linearGradient><linearGradient
        id="linearGradient7"><stop
          style="stop-color:#b8b8b8;stop-opacity:1;"
          offset="0.16548869"
@@ -33,18 +40,20 @@
        cy="196.25169"
        fx="452.62515"
        fy="196.25169"
-       r="4.2087579" /></defs><g
+       r="4.2087579" /><linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient123"
+       x1="543.2804"
+       y1="191.57928"
+       x2="551.69794"
+       y2="191.57928"
+       gradientUnits="userSpaceOnUse" /></defs><g
      id="layer2"
      transform="translate(-127.00007,-50.799947)"
      style="display:inline"><g
        id="g282"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-517.8991,-171.22072)"><rect
-         style="opacity:1;fill:url(#radialGradient286);fill-opacity:1;stroke:#434a5f;stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       transform="matrix(1.1870466,0,0,1.1870466,-517.8991,-171.22072)"><path
          id="rect281"
-         width="7.414506"
-         height="8.0831823"
-         x="543.78192"
-         y="187.53769"
-         rx="1.1144606"
-         ry="1.1144606" /></g></g></svg>
+         style="opacity:1;fill:url(#radialGradient286);stroke:url(#linearGradient123);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
+         d="m 544.89638,187.53769 h 5.18559 c 0.61741,0 1.11446,0.49705 1.11446,1.11446 v 5.85426 c 0,0.61741 -0.49705,1.11446 -1.11446,1.11446 h -5.18559 c -0.61741,0 -1.11446,-0.49705 -1.11446,-1.11446 v -5.85426 c 0,-0.61741 0.49705,-1.11446 1.11446,-1.11446 z" /></g></g></svg>
