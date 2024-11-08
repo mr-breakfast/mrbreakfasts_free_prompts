@@ -91,3 +91,7 @@ Before you submit your pull request, make sure to summarize your changes in `CHA
 ### 🎂 Who uses these?
 So far no one! Want your project featured? Add a link here in the README
 
+### 🛟 I need help! FAQ</summary>
+#### I need my PNG to be higher resolution
+#### There's no text in the SVG
+
