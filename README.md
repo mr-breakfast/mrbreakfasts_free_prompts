@@ -73,15 +73,15 @@ Groups begin with the vender name `xbox`, then the name of the button `y`, and t
 #### Exporting Changes
 After you've made your changes to the `inputs.svg` source file, you'll need to update the corresponding files.  
 
-Let's begin with exporting the individual SVG files. There are a few steps:
-1. Make a temporary duplicate of `inputs.svg`
-2. Click 'Select All in All Layers' to select all the groups.
-3. Go to path and click 'Object to Path' or `Shift+Control+C`
-4. Using batch export, ensure the background color is transparent, format is Plain SVG, and that there is no prefix. Overwrite the files, and export to `~/svg`
+Let's begin with exporting the individual SVG files as this has the most steps:
+1. Make a temporary duplicate of `inputs.svg`, and navigate to that file
+2. Click 'Select All in All Layers' to select all the individual prompts
+3. Navigate to the 'Path' menu and click 'Object to Path' or use `Shift+Control+C`
+4. Using batch export, ensure the background color is transparent, format is Plain SVG, overwrite is enabled, and that there is no prefix appended to the file name. Export to `~/svg`
 
 The individual PNGs are done similarly. Select all, and export the prompts at 96DPI to `~png`.
 
-Finally, find the preview image sources in `~/previews/src`. Copy/paste the changed prompts to the place they belong. Next, export the previes at 96DPI to `~/previews`.
+Finally, find the preview image sources in `~/previews/src`. Copy/paste the changed prompts to the places they belong. Next, export the previews at 96DPI to `~/previews`.
 
 You're all done!
 
