@@ -12,6 +12,9 @@ Additionally, these are titled "Package #" because they signify when the project
  - Fix PS5 Options and Create buttons which were incorrectly swapped. [#13](https://github.com/mr-breakfast/mrbreakfasts_free_prompts/pull/13)
  - Convert stroke and icons to locked gradients. [#8](https://github.com/mr-breakfast/mrbreakfasts_free_prompts/issues/8)
  - Vectorize text elements in individual SVG exports. [#17](https://github.com/mr-breakfast/mrbreakfasts_free_prompts/issues/17)
+ - Add `generic_select` and `generic_start` (light and dark styles). [#14](https://github.com/mr-breakfast/mrbreakfasts_free_prompts/issues/14)
+ - Add `/atlases`. [#7](https://github.com/mr-breakfast/mrbreakfasts_free_prompts/issues/7)
+ - Add `space_text` and `space_text_small` (light and dark) to disambiguate space bar prompt. [#10](https://github.com/mr-breakfast/mrbreakfasts_free_prompts/issues/10)
 
 ### Package 1
  - Initialized project 

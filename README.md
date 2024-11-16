@@ -81,6 +81,8 @@ Let's begin with exporting the individual SVG files as this has the most steps:
 
 The individual PNGs are done similarly. Select all, and export the prompts at 96DPI to `~png`.
 
+Again, select 'Layers' in Batch Export, and export layers to `~/atlases`.
+
 Finally, find the preview image sources in `~/previews/src`. Copy/paste the changed prompts to the places they belong. Next, export the previews at 96DPI to `~/previews`.
 
 You're all done!
