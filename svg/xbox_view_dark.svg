@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="42.432671"
-   height="42.432625"
-   viewBox="0 0 11.226977 11.226965"
+   width="42.432636"
+   height="42.432636"
+   viewBox="0 0 11.226968 11.226968"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -21,7 +21,7 @@
          id="stop90" /></linearGradient><linearGradient
        id="linearGradient1-1"><stop
          style="stop-color:#434a5f;stop-opacity:1;"
-         offset="1"
+         offset="0.47322804"
          id="stop3" /><stop
          style="stop-color:#434a5f;stop-opacity:1;"
          offset="1"
@@ -58,13 +58,15 @@
        gradientUnits="userSpaceOnUse" /></defs><g
      id="g583"
      style="display:inline"
-     transform="translate(-63.500078,-177.8)"><g
+     transform="translate(-63.500082,-177.8)"><g
        id="g861"
        style="display:inline;stroke-width:0.999961;stroke-dasharray:none;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-404.67061,-44.744949)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-404.67061,-44.744949)"><circle
+         style="fill:url(#radialGradient861);fill-opacity:1;stroke:url(#linearGradient410);stroke-width:0.891568;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
          id="circle860"
-         style="fill:url(#radialGradient861);stroke:url(#linearGradient410);stroke-width:0.891568;stroke-linecap:round;stroke-linejoin:round"
-         d="m 403.41171,192.2068 a 4.2831659,4.2831659 0 0 1 -4.28317,4.28317 4.2831659,4.2831659 0 0 1 -4.28317,-4.28317 4.2831659,4.2831659 0 0 1 4.28317,-4.28316 4.2831659,4.2831659 0 0 1 4.28317,4.28316 z" /><path
+         cx="399.12854"
+         cy="192.2068"
+         r="4.2831659" /><path
          id="path861"
          style="opacity:1;fill:none;stroke:url(#linearGradient703);stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
          d="m 55.542196,246.04218 h 3.196222 v 3.19622 h -3.196222 z m -1.463561,-1.46356 h 3.196222 v 1.46356 h -1.732661 v 1.73266 h -1.463561 z"

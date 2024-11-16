@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="37.764996"
-   height="40.764969"
-   viewBox="0 0 9.9919884 10.785731"
+   width="37.764977"
+   height="40.764977"
+   viewBox="0 0 9.9919834 10.785733"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -63,14 +63,19 @@
        y2="179.59933"
        gradientUnits="userSpaceOnUse" /></defs><g
      id="layer2"
-     transform="translate(-266.70002,12.700045)"
+     transform="translate(-266.70003,12.700048)"
      style="display:inline"><g
        id="g219"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-404.14644,-222.02075)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-404.14644,-222.02075)"><rect
+         style="opacity:1;fill:url(#radialGradient178);fill-opacity:1;stroke:url(#linearGradient231);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect177"
-         style="opacity:1;fill:url(#radialGradient178);stroke:url(#linearGradient231);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-         d="m 566.75509,176.8389 h 5.18558 c 0.61741,0 1.11446,0.49705 1.11446,1.11446 v 5.85426 c 0,0.61741 -0.49705,1.11446 -1.11446,1.11446 h -5.18558 c -0.61742,0 -1.11447,-0.49705 -1.11447,-1.11446 v -5.85426 c 0,-0.61741 0.49705,-1.11446 1.11447,-1.11446 z" /><path
+         width="7.414506"
+         height="8.0831823"
+         x="565.64062"
+         y="176.8389"
+         rx="1.1144606"
+         ry="1.1144606" /><path
          d="m 568.82063,178.41645 v 0.48088 h -1.00387 v 0.51948 h 0.75115 v 0.46683 h -0.75115 v 0.99685 h -0.60021 v -2.46404 z m 0.27081,0.45982 v -0.5581 h 0.97228 v 2.56232 h -0.62479 v -2.00422 z m 1.39753,0 v -0.5581 h 0.97228 v 2.56232 h -0.62479 v -2.00422 z"
          id="text177"
          style="font-weight:bold;font-size:3.51003px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:0.0777568px;text-anchor:middle;fill:url(#linearGradient802);stroke-width:1.99061;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.98122, 1.99061"

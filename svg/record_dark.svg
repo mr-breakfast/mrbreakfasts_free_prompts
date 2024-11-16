@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="37.764996"
-   height="40.765011"
-   viewBox="0 0 9.9919884 10.785742"
+   width="37.764977"
+   height="40.764977"
+   viewBox="0 0 9.9919834 10.785733"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -21,7 +21,7 @@
          id="stop90" /></linearGradient><linearGradient
        id="linearGradient1-1"><stop
          style="stop-color:#434a5f;stop-opacity:1;"
-         offset="1"
+         offset="0.47322804"
          id="stop3" /><stop
          style="stop-color:#434a5f;stop-opacity:1;"
          offset="1"
@@ -85,7 +85,7 @@
        y2="212.53119"
        gradientUnits="userSpaceOnUse" /></defs><g
      id="g456"
-     transform="translate(-254.00007,-88.899939)"
+     transform="translate(-254.00007,-88.899943)"
      style="display:inline"><g
        id="g426"
        transform="translate(12.700072,12.699945)"><path
@@ -99,10 +99,17 @@
          aria-label="PAGE DN" /></g><g
        id="g440"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-391.4464,-158.52076)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-391.4464,-158.52076)"><rect
+         style="opacity:1;fill:url(#radialGradient554);fill-opacity:1;stroke:url(#linearGradient258);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect439"
-         style="opacity:1;fill:url(#radialGradient554);stroke:url(#linearGradient258);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-         d="m 545.35744,208.93536 h 5.18559 c 0.61741,0 1.11446,0.49705 1.11446,1.11446 v 5.85427 c 0,0.61741 -0.49705,1.11446 -1.11446,1.11446 h -5.18559 c -0.61741,0 -1.11446,-0.49705 -1.11446,-1.11446 v -5.85427 c 0,-0.61741 0.49705,-1.11446 1.11446,-1.11446 z" /><path
+         width="7.414506"
+         height="8.0831823"
+         x="544.24298"
+         y="208.93536"
+         rx="1.1144606"
+         ry="1.1144606" /><circle
+         style="fill:url(#linearGradient1008);fill-opacity:1;stroke-width:1.43213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
          id="circle439"
-         style="fill:url(#linearGradient1008);stroke-width:1.43213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-         d="m 549.70467,212.53119 a 1.7544092,1.7544092 0 0 1 -1.75441,1.75441 1.7544092,1.7544092 0 0 1 -1.75441,-1.75441 1.7544092,1.7544092 0 0 1 1.75441,-1.75441 1.7544092,1.7544092 0 0 1 1.75441,1.75441 z" /></g></g></svg>
+         cx="547.95026"
+         cy="212.53119"
+         r="1.7544092" /></g></g></svg>

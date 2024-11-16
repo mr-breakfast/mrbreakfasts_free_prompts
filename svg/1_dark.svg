@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="37.764996"
-   height="40.764969"
-   viewBox="0 0 9.9919884 10.785731"
+   width="37.764977"
+   height="40.764977"
+   viewBox="0 0 9.9919834 10.785733"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -21,7 +21,7 @@
          id="stop90" /></linearGradient><linearGradient
        id="linearGradient1-1"><stop
          style="stop-color:#434a5f;stop-opacity:1;"
-         offset="1"
+         offset="0.47322804"
          id="stop3" /><stop
          style="stop-color:#434a5f;stop-opacity:1;"
          offset="1"
@@ -96,17 +96,27 @@
      style="display:inline"><g
        id="g365"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-404.14642,-196.62076)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-404.14642,-196.62076)"><rect
+         style="opacity:1;fill:url(#radialGradient485);fill-opacity:1;stroke:#434a5f;stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect364"
-         style="opacity:1;fill:url(#radialGradient485);stroke:#434a5f;stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-         d="m 449.06807,187.53772 h 5.18559 c 0.61741,0 1.11446,0.49705 1.11446,1.11446 v 5.18559 c 0,0.61741 -0.49705,1.11446 -1.11446,1.11446 h -5.18559 c -0.61741,0 -1.11446,-0.49705 -1.11446,-1.11446 v -5.18559 c 0,-0.61741 0.49705,-1.11446 1.11446,-1.11446 z" /><path
+         width="7.414506"
+         height="7.414506"
+         x="447.95361"
+         y="187.53772"
+         rx="1.1144606"
+         ry="1.1144606" /><path
          d="m 452.42022,192.87416 -0.4068,-0.54692 q -0.1808,0.0362 -0.35256,0.0362 -0.44748,0 -0.82265,-0.20792 -0.37064,-0.20793 -0.59212,-0.57857 -0.21696,-0.37516 -0.21696,-0.84072 0,-0.46556 0.21696,-0.8362 0.22148,-0.37065 0.59212,-0.57857 0.37517,-0.20792 0.82265,-0.20792 0.44748,0 0.81812,0.20792 0.37516,0.20792 0.5876,0.57857 0.21697,0.37064 0.21697,0.8362 0,0.4068 -0.16725,0.7458 -0.16272,0.33448 -0.45652,0.55597 l 0.69609,0.8362 z m -1.60009,-2.13797 q 0,0.42036 0.22601,0.67348 0.23052,0.2486 0.61472,0.2486 0.37968,0 0.60568,-0.25312 0.23052,-0.25312 0.23052,-0.66896 0,-0.42036 -0.23052,-0.66896 -0.226,-0.25312 -0.60568,-0.25312 -0.3842,0 -0.61472,0.2486 -0.22601,0.2486 -0.22601,0.67348 z"
          id="text364"
          style="font-weight:bold;font-size:4.52002px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:0.100131px;text-anchor:middle;fill:url(#linearGradient669);stroke-width:1.99061;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.98122, 1.99061"
-         aria-label="Q" /><path
+         aria-label="Q" /><rect
+         style="opacity:1;fill:url(#radialGradient486);fill-opacity:1;stroke:url(#linearGradient323);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect365"
-         style="opacity:1;fill:url(#radialGradient486);stroke:url(#linearGradient323);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-         d="m 449.06807,187.53772 h 5.18559 c 0.61741,0 1.11446,0.49705 1.11446,1.11446 v 5.85426 c 0,0.61741 -0.49705,1.11446 -1.11446,1.11446 h -5.18559 c -0.61741,0 -1.11446,-0.49705 -1.11446,-1.11446 v -5.85426 c 0,-0.61741 0.49705,-1.11446 1.11446,-1.11446 z" /><path
+         width="7.414506"
+         height="8.0831823"
+         x="447.95361"
+         y="187.53772"
+         rx="1.1144606"
+         ry="1.1144606" /><path
          d="m 450.93314,189.75083 v -0.71869 h 1.25204 v 3.29962 h -0.80456 v -2.58093 z"
          id="text365"
          style="font-weight:bold;font-size:4.52002px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:0.100131px;text-anchor:middle;fill:url(#linearGradient670);stroke-width:1.99061;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.98122, 1.99061"

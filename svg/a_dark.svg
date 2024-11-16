@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="47.999817"
-   height="47.999817"
-   viewBox="0 0 12.699952 12.699952"
+   width="47.999825"
+   height="47.999825"
+   viewBox="0 0 12.699954 12.699954"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -21,7 +21,7 @@
          id="stop90" /></linearGradient><linearGradient
        id="linearGradient1-1"><stop
          style="stop-color:#434a5f;stop-opacity:1;"
-         offset="1"
+         offset="0.47322804"
          id="stop3" /><stop
          style="stop-color:#434a5f;stop-opacity:1;"
          offset="1"
@@ -58,13 +58,15 @@
        gradientUnits="userSpaceOnUse" /></defs><g
      id="g584"
      style="display:inline"
-     transform="translate(7.8076845e-6,-165.10004)"><g
+     transform="translate(7.7902961e-6,-165.10004)"><g
        id="g1"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-454.94649,-56.920712)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-454.94649,-56.920712)"><circle
+         style="fill:url(#radialGradient1);fill-opacity:1;stroke:url(#linearGradient11);stroke-width:0.999961;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
          id="circle1"
-         style="fill:url(#radialGradient1);stroke:url(#linearGradient11);stroke-width:0.999961;stroke-linecap:round;stroke-linejoin:round"
-         d="m 393.45796,192.38565 a 4.849411,4.849411 0 0 1 -4.84941,4.84941 4.849411,4.849411 0 0 1 -4.84941,-4.84941 4.849411,4.849411 0 0 1 4.84941,-4.84941 4.849411,4.849411 0 0 1 4.84941,4.84941 z" /><path
+         cx="388.60855"
+         cy="192.38565"
+         r="4.849411" /><path
          d="m 389.38123,193.28911 h -1.55728 l -0.24964,0.73703 h -1.06393 l 1.50972,-4.17254 h 1.17687 l 1.50972,4.17254 h -1.07582 z m -0.26153,-0.78458 -0.51711,-1.52756 -0.51117,1.52756 z"
          id="text1"
          style="font-weight:bold;font-size:5.94379px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:0.131671px;text-anchor:middle;fill:url(#linearGradient90);stroke-width:1.99061;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.98122, 1.99061"

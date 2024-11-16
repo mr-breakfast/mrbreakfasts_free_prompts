@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="37.76495"
-   height="40.765011"
-   viewBox="0 0 9.9919763 10.785742"
+   width="37.764977"
+   height="40.764977"
+   viewBox="0 0 9.9919834 10.785733"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -21,7 +21,7 @@
          id="stop90" /></linearGradient><linearGradient
        id="linearGradient1-1"><stop
          style="stop-color:#434a5f;stop-opacity:1;"
-         offset="1"
+         offset="0.47322804"
          id="stop3" /><stop
          style="stop-color:#434a5f;stop-opacity:1;"
          offset="1"
@@ -63,14 +63,19 @@
        y2="212.53117"
        gradientUnits="userSpaceOnUse" /></defs><g
      id="g456"
-     transform="translate(-139.70007,-63.499949)"
+     transform="translate(-139.70006,-63.499953)"
      style="display:inline"><g
        id="g453"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-404.14644,-183.92075)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-404.14644,-183.92075)"><rect
+         style="opacity:1;fill:url(#radialGradient562);fill-opacity:1;stroke:url(#linearGradient275);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect453"
-         style="opacity:1;fill:url(#radialGradient562);stroke:url(#linearGradient275);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-         d="m 459.7669,208.93536 h 5.18558 c 0.61741,0 1.11446,0.49705 1.11446,1.11446 v 5.85427 c 0,0.61741 -0.49705,1.11446 -1.11446,1.11446 h -5.18558 c -0.61742,0 -1.11446,-0.49705 -1.11446,-1.11446 v -5.85427 c 0,-0.61741 0.49704,-1.11446 1.11446,-1.11446 z" /><path
+         width="7.414506"
+         height="8.0831823"
+         x="458.65244"
+         y="208.93536"
+         rx="1.1144606"
+         ry="1.1144606" /><path
          id="path453"
          style="fill:url(#linearGradient1007);fill-opacity:1;stroke-width:1.43213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
          d="m 460.57655,210.74804 v 1.56024 h 1.56025 v -1.56024 z m 2.00603,0 v 1.56024 h 1.56024 v -1.56024 z m -2.00603,2.00602 v 1.56025 h 1.56025 v -1.56025 z m 2.00603,0 v 1.56025 h 1.56024 v -1.56025 z" /></g></g></svg>

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="37.764996"
-   height="40.765011"
-   viewBox="0 0 9.9919884 10.785742"
+   width="37.764977"
+   height="40.764977"
+   viewBox="0 0 9.9919834 10.785733"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -63,14 +63,19 @@
        y2="212.14287"
        gradientUnits="userSpaceOnUse" /></defs><g
      id="layer2"
-     transform="translate(-228.60009,-38.099939)"
+     transform="translate(-228.60009,-38.099943)"
      style="display:inline"><g
        id="g249"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-404.14642,-209.32076)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-404.14642,-209.32076)"><rect
+         style="opacity:1;fill:url(#radialGradient107);fill-opacity:1;stroke:url(#linearGradient162);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect103"
-         style="opacity:1;fill:url(#radialGradient107);stroke:url(#linearGradient162);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-         d="m 534.65865,208.93536 h 5.18558 c 0.61742,0 1.11447,0.49705 1.11447,1.11446 v 5.85427 c 0,0.61741 -0.49705,1.11446 -1.11447,1.11446 h -5.18558 c -0.61741,0 -1.11446,-0.49705 -1.11446,-1.11446 v -5.85427 c 0,-0.61741 0.49705,-1.11446 1.11446,-1.11446 z" /><path
+         width="7.414506"
+         height="8.0831823"
+         x="533.54419"
+         y="208.93536"
+         rx="1.1144606"
+         ry="1.1144606" /><path
          d="m 537.79607,213.7294 -1.06673,-1.40121 v 1.40121 h -0.77292 v -3.17305 h 0.77292 v 1.39216 l 1.05769,-1.39216 h 0.90852 l -1.22945,1.55488 1.27465,1.61817 z"
          id="text103"
          style="font-weight:bold;font-size:4.52002px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:0.100131px;text-anchor:middle;fill:url(#linearGradient864);stroke-width:1.99061;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.98122, 1.99061"

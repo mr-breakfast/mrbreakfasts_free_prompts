@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="47.999817"
-   height="47.999817"
-   viewBox="0 0 12.699952 12.699952"
+   width="47.999825"
+   height="47.999825"
+   viewBox="0 0 12.699954 12.699954"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -21,7 +21,7 @@
          id="stop90" /></linearGradient><linearGradient
        id="linearGradient1-1"><stop
          style="stop-color:#434a5f;stop-opacity:1;"
-         offset="1"
+         offset="0.47322804"
          id="stop3" /><stop
          style="stop-color:#434a5f;stop-opacity:1;"
          offset="1"
@@ -58,14 +58,20 @@
        gradientUnits="userSpaceOnUse" /></defs><g
      id="g585"
      style="display:inline"
-     transform="translate(-2.1923155e-6,-304.80001)"><g
+     transform="translate(-2.2097039e-6,-304.80001)"><g
        id="g894"
        transform="translate(-165.09998,279.4)"
-       style="display:inline"><path
+       style="display:inline"><circle
+         style="display:inline;fill:url(#radialGradient898);fill-opacity:1;stroke:url(#linearGradient63);stroke-width:0.999961;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
          id="circle893"
-         style="display:inline;fill:url(#radialGradient898);stroke:url(#linearGradient63);stroke-width:0.999961;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-         transform="matrix(1.1870466,0,0,1.1870466,-289.8465,-196.62075)"
-         d="m 393.45796,192.38565 a 4.849411,4.849411 0 0 1 -4.84941,4.84941 4.849411,4.849411 0 0 1 -4.84941,-4.84941 4.849411,4.849411 0 0 1 4.84941,-4.84941 4.849411,4.849411 0 0 1 4.84941,4.84941 z" /><path
+         cx="388.60855"
+         cy="192.38565"
+         r="4.849411"
+         transform="matrix(1.1870466,0,0,1.1870466,-289.8465,-196.62075)" /><rect
+         style="fill:none;fill-opacity:1;stroke:url(#linearGradient689);stroke-width:1.05833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.66;stroke-dasharray:none;paint-order:stroke fill markers"
          id="rect893"
-         style="fill:none;stroke:url(#linearGradient689);stroke-width:1.05833;stroke-linecap:square;stroke-miterlimit:2.66;paint-order:stroke fill markers"
-         d="m 168.909,28.784718 h 5.08193 V 33.86665 H 168.909 Z" /></g></g></svg>
+         width="5.0819325"
+         height="5.0819325"
+         x="168.909"
+         y="28.784718"
+         ry="0" /></g></g></svg>

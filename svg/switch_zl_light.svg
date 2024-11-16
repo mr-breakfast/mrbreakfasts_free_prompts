@@ -62,7 +62,7 @@
        style="display:inline"><path
          id="path37"
          style="fill:url(#linearGradient40);stroke:url(#linearGradient426);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
-         d="m 397.02152,109.36018 h 1.76024 a 3,3 45 0 1 3,3 v 5.31494 a 3,3 135 0 1 -3,3 h -5.31493 a 3,3 45 0 1 -3,-3 v -1.76025 a 6.5546876,6.5546876 135 0 1 6.55469,-6.55469 z"
+         d="m 397.02152,109.36018 1.76024,0 a 3,3 45 0 1 3,3 v 5.31494 a 3,3 135 0 1 -3,3 h -5.31493 a 3,3 45 0 1 -3,-3 v -1.76025 a 6.5546876,6.5546876 135 0 1 6.55469,-6.55469 z"
          transform="matrix(1.0312685,0,0,-1.0312685,-247.62382,123.02309)" /><path
          d="m 159.04617,-2.7227307 h 1.70462 v 0.7902216 h -2.79964 v -0.7337772 l 1.69333,-2.4383981 h -1.69333 v -0.7902217 h 2.79964 v 0.7337773 z m 3.41291,0.045155 h 1.26435 v 0.7450661 h -2.22955 v -3.962397 h 0.9652 z"
          id="text37"

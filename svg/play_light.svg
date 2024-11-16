@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="37.76495"
-   height="40.764969"
-   viewBox="0 0 9.9919763 10.785731"
+   width="37.764977"
+   height="40.764977"
+   viewBox="0 0 9.9919834 10.785733"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -85,7 +85,7 @@
        y2="55.521332"
        gradientUnits="userSpaceOnUse" /></defs><g
      id="layer2"
-     transform="translate(-254.00007,-88.899959)"
+     transform="translate(-254.00006,-88.899954)"
      style="display:inline"><g
        id="g185"
        transform="translate(12.700072,12.699954)"><path
@@ -99,11 +99,16 @@
          aria-label="PAUSE" /></g><g
        id="g293"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-429.54637,-171.22075)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-429.54637,-171.22075)"><rect
+         style="opacity:1;fill:url(#radialGradient293);fill-opacity:1;stroke:url(#linearGradient38);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect287"
-         style="opacity:1;fill:url(#radialGradient293);stroke:url(#linearGradient38);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-         d="m 577.45388,219.63419 h 5.18558 c 0.61741,0 1.11446,0.49705 1.11446,1.11446 v 5.85426 c 0,0.61741 -0.49705,1.11446 -1.11446,1.11446 h -5.18558 c -0.61741,0 -1.11446,-0.49705 -1.11446,-1.11446 v -5.85426 c 0,-0.61741 0.49705,-1.11446 1.11446,-1.11446 z" /><path
+         width="7.414506"
+         height="8.0831823"
+         x="576.33942"
+         y="219.63419"
+         rx="1.1144606"
+         ry="1.1144606" /><path
+         style="fill:url(#linearGradient887);fill-opacity:1;stroke-width:2.02175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
          id="path293"
-         style="fill:url(#linearGradient887);stroke-width:2.02175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-         transform="matrix(0,-0.84242692,-0.59562918,0,613.1168,547.59657)"
-         d="m 387.36449,57.535925 h -4.6525 l 2.32625,-4.029184 z" /></g></g></svg>
+         d="m 387.36449,57.535925 -4.6525,0 2.32625,-4.029184 z"
+         transform="matrix(0,-0.84242692,-0.59562918,0,613.1168,547.59657)" /></g></g></svg>

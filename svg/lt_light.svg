@@ -35,7 +35,7 @@
          id="stop90" /></linearGradient><linearGradient
        id="linearGradient1-1"><stop
          style="stop-color:#434a5f;stop-opacity:1;"
-         offset="1"
+         offset="0.47322804"
          id="stop3" /><stop
          style="stop-color:#434a5f;stop-opacity:1;"
          offset="1"
@@ -124,10 +124,12 @@
      transform="translate(2.2176145e-5,-177.79999)"><g
        id="g1"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-454.94649,-56.920712)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-454.94649,-56.920712)"><circle
+         style="fill:url(#radialGradient1);fill-opacity:1;stroke:url(#linearGradient11);stroke-width:0.999961;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
          id="circle1"
-         style="fill:url(#radialGradient1);stroke:url(#linearGradient11);stroke-width:0.999961;stroke-linecap:round;stroke-linejoin:round"
-         d="m 393.45796,192.38565 a 4.849411,4.849411 0 0 1 -4.84941,4.84941 4.849411,4.849411 0 0 1 -4.84941,-4.84941 4.849411,4.849411 0 0 1 4.84941,-4.84941 4.849411,4.849411 0 0 1 4.84941,4.84941 z" /><path
+         cx="388.60855"
+         cy="192.38565"
+         r="4.849411" /><path
          d="m 389.38123,193.28911 h -1.55728 l -0.24964,0.73703 h -1.06393 l 1.50972,-4.17254 h 1.17687 l 1.50972,4.17254 h -1.07582 z m -0.26153,-0.78458 -0.51711,-1.52756 -0.51117,1.52756 z"
          id="text1"
          style="font-weight:bold;font-size:5.94379px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:0.131671px;text-anchor:middle;fill:url(#linearGradient90);stroke-width:1.99061;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.98122, 1.99061"
@@ -148,7 +150,7 @@
        style="display:inline"><path
          id="path13"
          style="fill:url(#linearGradient178);stroke:url(#linearGradient6);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
-         d="m 397.02152,109.36018 h 1.76024 a 3,3 45 0 1 3,3 v 5.31494 a 3,3 135 0 1 -3,3 h -5.31493 a 3,3 45 0 1 -3,-3 v -1.76025 a 6.5546876,6.5546876 135 0 1 6.55469,-6.55469 z"
+         d="m 397.02152,109.36018 1.76024,0 a 3,3 45 0 1 3,3 v 5.31494 a 3,3 135 0 1 -3,3 h -5.31493 a 3,3 45 0 1 -3,-3 v -1.76025 a 6.5546876,6.5546876 135 0 1 6.55469,-6.55469 z"
          transform="matrix(1.0312685,0,0,-1.0312685,-247.62382,123.02309)" /><path
          d="m 158.9982,-2.6775752 h 1.26435 v 0.7450661 H 158.033 v -3.962397 h 0.9652 z m 4.68854,-3.2173309 v 0.7732883 h -1.04986 v 3.1891087 h -0.9652 v -3.1891087 h -1.04987 v -0.7732883 z"
          id="text13"

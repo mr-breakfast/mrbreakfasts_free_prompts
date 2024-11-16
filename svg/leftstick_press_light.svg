@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="33.000011"
+   width="33"
    height="42.045231"
-   viewBox="0 0 8.731253 11.124467"
+   viewBox="0 0 8.73125 11.124467"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -72,16 +72,19 @@
        gradientUnits="userSpaceOnUse" /></defs><g
      id="layer6"
      style="display:inline"
-     transform="translate(-173.43437,-65.472403)"><g
+     transform="translate(-173.43438,-65.472403)"><g
        id="g160"
        transform="matrix(1.0449459,0,0,1.0449459,-237.71176,-131.79554)"
        style="display:inline;stroke-width:0.999961;stroke-dasharray:none;paint-order:fill markers stroke"><path
          id="path159"
          style="fill:#8a90a8;fill-opacity:1;stroke:url(#linearGradient468);stroke-width:0.759609;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none"
-         d="m 396.07574,196.58491 h 3.1275 c 0,0 0,1.29309 0,1.68231 0,1.0425 -3.1275,1.0425 -3.1275,0 0,-0.57456 0,-1.68231 0,-1.68231 z" /><path
+         d="m 396.07574,196.58491 h 3.1275 c 0,0 0,1.29309 0,1.68231 0,1.0425 -3.1275,1.0425 -3.1275,0 0,-0.57456 0,-1.68231 0,-1.68231 z" /><ellipse
+         style="fill:url(#radialGradient160);stroke:url(#linearGradient469);stroke-width:0.759609;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          id="ellipse159"
-         style="fill:url(#radialGradient160);stroke:url(#linearGradient469);stroke-width:0.759609;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:normal"
-         d="m 401.43754,194.79788 a 3.7980435,3.0697258 0 0 1 -3.79804,3.06973 3.7980435,3.0697258 0 0 1 -3.79805,-3.06973 3.7980435,3.0697258 0 0 1 3.79805,-3.06972 3.7980435,3.0697258 0 0 1 3.79804,3.06972 z" /><path
+         cx="397.6395"
+         cy="194.79788"
+         rx="3.7980435"
+         ry="3.0697258" /><path
          d="m 190.41445,60.459389 h 0.79022 v 0.465667 h -1.39347 v -2.476501 h 0.60325 z"
          id="text172"
          style="font-weight:bold;font-size:3.52778px;line-height:1.1;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:0.132292px;text-anchor:middle;fill:url(#linearGradient926);stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:stroke fill markers"

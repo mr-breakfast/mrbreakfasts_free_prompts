@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="39.108299"
-   height="31.929941"
-   viewBox="0 0 10.347404 8.4481303"
+   width="39.108303"
+   height="31.929945"
+   viewBox="0 0 10.347405 8.4481313"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -78,13 +78,18 @@
        gradientUnits="userSpaceOnUse" /></defs><g
      id="g583"
      style="display:inline"
-     transform="translate(-88.900063,-190.5)"><g
+     transform="translate(-88.900062,-190.5)"><g
        id="g867"
-       transform="translate(12.70006,-38.099999)"><path
+       transform="translate(12.70006,-38.099999)"><rect
+         style="display:inline;fill:url(#linearGradient867);fill-opacity:1;stroke:url(#linearGradient440);stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
          id="rect864"
-         style="display:inline;fill:url(#linearGradient867);stroke:url(#linearGradient440);stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
-         transform="translate(-0.47466726,-0.47471761)"
-         d="m 77.83422,229.60388 h 8.028304 c 0.349234,0 0.630385,0.28115 0.630385,0.63039 v 6.12903 c 0,0.34923 -0.281151,0.63038 -0.630385,0.63038 H 77.83422 c -0.349234,0 -0.630385,-0.28115 -0.630385,-0.63038 v -6.12903 c 0,-0.34924 0.281151,-0.63039 0.630385,-0.63039 z" /><path
+         width="9.2890749"
+         height="7.389801"
+         x="77.203835"
+         y="229.60388"
+         rx="0.63038522"
+         ry="0.63038522"
+         transform="translate(-0.47466726,-0.47471761)" /><path
          style="fill:none;fill-opacity:1;stroke:url(#linearGradient624);stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          d="m 79.752936,233.22094 v 0.70201 h 3.241537 v -0.70201"
          id="path865" /><path

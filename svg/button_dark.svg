@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="47.999817"
-   height="47.999817"
-   viewBox="0 0 12.699952 12.699952"
+   width="47.999825"
+   height="47.999825"
+   viewBox="0 0 12.699954 12.699954"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -14,7 +14,7 @@
      id="defs1"><linearGradient
        id="linearGradient1-1"><stop
          style="stop-color:#434a5f;stop-opacity:1;"
-         offset="1"
+         offset="0.47322804"
          id="stop3" /><stop
          style="stop-color:#434a5f;stop-opacity:1;"
          offset="1"
@@ -44,10 +44,12 @@
        gradientUnits="userSpaceOnUse" /></defs><g
      id="g584"
      style="display:inline"
-     transform="translate(7.8076845e-6,-152.4)"><g
+     transform="translate(7.7902961e-6,-152.4)"><g
        id="g539"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-454.94649,-69.620754)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-454.94649,-69.620754)"><circle
+         style="fill:url(#radialGradient540);fill-opacity:1;stroke:url(#linearGradient13);stroke-width:0.999961;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
          id="circle539"
-         style="fill:url(#radialGradient540);stroke:url(#linearGradient13);stroke-width:0.999961;stroke-linecap:round;stroke-linejoin:round"
-         d="m 393.45796,192.38565 a 4.849411,4.849411 0 0 1 -4.84941,4.84941 4.849411,4.849411 0 0 1 -4.84941,-4.84941 4.849411,4.849411 0 0 1 4.84941,-4.84941 4.849411,4.849411 0 0 1 4.84941,4.84941 z" /></g></g></svg>
+         cx="388.60855"
+         cy="192.38565"
+         r="4.849411" /></g></g></svg>

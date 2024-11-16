@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="37.76495"
-   height="40.764969"
-   viewBox="0 0 9.9919763 10.785731"
+   width="37.764977"
+   height="40.764977"
+   viewBox="0 0 9.9919834 10.785733"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -63,14 +63,22 @@
        y2="223.22998"
        gradientUnits="userSpaceOnUse" /></defs><g
      id="layer2"
-     transform="translate(-266.70007,-76.199959)"
+     transform="translate(-266.70006,-76.199954)"
      style="display:inline"><g
        id="g319"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-416.84637,-183.92075)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-416.84637,-183.92075)"><rect
+         style="opacity:1;fill:url(#radialGradient319);fill-opacity:1;stroke:url(#linearGradient112);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect317"
-         style="opacity:1;fill:url(#radialGradient319);stroke:url(#linearGradient112);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-         d="m 577.45388,219.63419 h 5.18558 c 0.61741,0 1.11446,0.49705 1.11446,1.11446 v 5.85426 c 0,0.61741 -0.49705,1.11446 -1.11446,1.11446 h -5.18558 c -0.61741,0 -1.11446,-0.49705 -1.11446,-1.11446 v -5.85426 c 0,-0.61741 0.49705,-1.11446 1.11446,-1.11446 z" /><path
+         width="7.414506"
+         height="8.0831823"
+         x="576.33942"
+         y="219.63419"
+         rx="1.1144606"
+         ry="1.1144606" /><rect
+         style="fill:url(#linearGradient890);fill-opacity:1;stroke-width:1.43213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
          id="rect320"
-         style="fill:url(#linearGradient890);stroke-width:1.43213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-         d="m 578.48645,221.66974 h 3.12049 v 3.12049 h -3.12049 z" /></g></g></svg>
+         width="3.1204898"
+         height="3.1204898"
+         x="578.48645"
+         y="221.66974" /></g></g></svg>

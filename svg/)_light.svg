@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="37.764996"
-   height="40.765011"
-   viewBox="0 0 9.9919884 10.785742"
+   width="37.764977"
+   height="40.764977"
+   viewBox="0 0 9.9919834 10.785733"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -63,14 +63,19 @@
        y2="212.36946"
        gradientUnits="userSpaceOnUse" /></defs><g
      id="layer2"
-     transform="translate(-254.00001,4.111787e-5)"
+     transform="translate(-254.00001,3.6643261e-5)"
      style="display:inline"><g
        id="g279"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-391.44646,-247.42074)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-391.44646,-247.42074)"><rect
+         style="opacity:1;fill:url(#radialGradient280);fill-opacity:1;stroke:url(#linearGradient229);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect279"
-         style="opacity:1;fill:url(#radialGradient280);stroke:url(#linearGradient229);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-         d="m 545.35744,208.93536 h 5.18559 c 0.61741,0 1.11446,0.49705 1.11446,1.11446 v 5.85427 c 0,0.61741 -0.49705,1.11446 -1.11446,1.11446 h -5.18559 c -0.61741,0 -1.11446,-0.49705 -1.11446,-1.11446 v -5.85427 c 0,-0.61741 0.49705,-1.11446 1.11446,-1.11446 z" /><path
+         width="7.414506"
+         height="8.0831823"
+         x="544.24298"
+         y="208.93536"
+         rx="1.1144606"
+         ry="1.1144606" /><path
          d="m 547.09058,214.53686 v -0.0618 q 0.38634,-0.4018 0.59883,-0.95041 0.21249,-0.54861 0.21249,-1.13972 0,-0.59498 -0.22021,-1.15518 -0.22022,-0.56406 -0.62588,-0.96586 v -0.0618 h 0.64906 q 0.39793,0.36317 0.61429,0.94269 0.21635,0.57565 0.21635,1.24017 0,0.65678 -0.20863,1.22471 -0.20862,0.56793 -0.58338,0.92723 z"
          id="text279"
          style="font-weight:bold;font-size:3.86346px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:0.100131px;text-anchor:middle;fill:url(#linearGradient763);stroke-width:1.99061;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.98122, 1.99061"

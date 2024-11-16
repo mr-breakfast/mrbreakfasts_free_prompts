@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="47.999817"
-   height="47.999817"
-   viewBox="0 0 12.699952 12.699952"
+   width="47.999825"
+   height="47.999825"
+   viewBox="0 0 12.699954 12.699954"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -21,7 +21,7 @@
          id="stop90" /></linearGradient><linearGradient
        id="linearGradient1-1"><stop
          style="stop-color:#434a5f;stop-opacity:1;"
-         offset="1"
+         offset="0.47322804"
          id="stop3" /><stop
          style="stop-color:#434a5f;stop-opacity:1;"
          offset="1"
@@ -61,11 +61,13 @@
      transform="translate(-12.699962,-304.8)"><g
        id="g893"
        style="display:inline;stroke-width:0.999961;stroke-dasharray:none;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-442.24652,82.779246)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-442.24652,82.779246)"><circle
+         style="fill:url(#radialGradient899);fill-opacity:1;stroke:url(#linearGradient62);stroke-width:0.999961;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
          id="circle892"
-         style="fill:url(#radialGradient899);stroke:url(#linearGradient62);stroke-linecap:round;stroke-linejoin:round"
-         d="m 393.45796,192.38565 a 4.849411,4.849411 0 0 1 -4.84941,4.84941 4.849411,4.849411 0 0 1 -4.84941,-4.84941 4.849411,4.849411 0 0 1 4.84941,-4.84941 4.849411,4.849411 0 0 1 4.84941,4.84941 z" /><path
+         cx="388.60855"
+         cy="192.38565"
+         r="4.849411" /><path
+         style="display:inline;fill:none;fill-opacity:1;stroke:url(#linearGradient690);stroke-width:3.93041;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.66;stroke-dasharray:none;paint-order:stroke fill markers"
          id="path892"
-         style="display:inline;fill:none;stroke:url(#linearGradient690);stroke-width:3.93041;stroke-linecap:square;stroke-miterlimit:2.66;paint-order:stroke fill markers"
-         transform="matrix(0.22868698,0,0,0.22500558,286.16001,89.146608)"
-         d="m 447.98587,449.00143 9.45331,16.37362 h -18.90662 z" /></g></g></svg>
+         d="m 447.98587,449.00143 9.45331,16.37362 -18.90662,0 z"
+         transform="matrix(0.22868698,0,0,0.22500558,286.16001,89.146608)" /></g></g></svg>

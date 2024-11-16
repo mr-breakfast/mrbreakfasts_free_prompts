@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="64.499947"
-   height="40.764969"
-   viewBox="0 0 17.065611 10.785731"
+   width="64.499985"
+   height="40.764977"
+   viewBox="0 0 17.065621 10.785733"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -21,7 +21,7 @@
          id="stop90" /></linearGradient><linearGradient
        id="linearGradient1-1"><stop
          style="stop-color:#434a5f;stop-opacity:1;"
-         offset="1"
+         offset="0.47322804"
          id="stop3" /><stop
          style="stop-color:#434a5f;stop-opacity:1;"
          offset="1"
@@ -62,14 +62,19 @@
        y2="233.54053"
        gradientUnits="userSpaceOnUse" /></defs><g
      id="g456"
-     transform="translate(-152.40009,-76.199947)"
+     transform="translate(-152.40008,-76.199944)"
      style="display:inline"><g
        id="g377"
        style="display:inline;paint-order:fill markers stroke"
-       transform="matrix(1.1870466,0,0,1.1870466,-404.14642,-196.62076)"><path
+       transform="matrix(1.1870466,0,0,1.1870466,-404.14642,-196.62076)"><rect
+         style="opacity:1;fill:url(#linearGradient497);stroke:url(#linearGradient269);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect377"
-         style="opacity:1;fill:url(#linearGradient497);stroke:url(#linearGradient269);stroke-width:1.00301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-         d="m 470.46572,230.33301 h 11.1446 c 0.61742,0 1.11446,0.49705 1.11446,1.11446 v 5.85426 c 0,0.61741 -0.49704,1.11446 -1.11446,1.11446 h -11.1446 c -0.61741,0 -1.11446,-0.49705 -1.11446,-1.11446 v -5.85426 c 0,-0.61741 0.49705,-1.11446 1.11446,-1.11446 z" /><path
+         width="13.373528"
+         height="8.0831823"
+         x="469.35126"
+         y="230.33301"
+         rx="1.1144606"
+         ry="1.1144606" /><path
          style="font-weight:bold;font-size:4.52002px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';letter-spacing:0.100131px;fill:url(#linearGradient906);stroke-width:1.99061;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.98122, 1.99061"
          d="m 473.31538,231.95399 v 0.61924 h -0.84072 v 2.55381 h -0.77292 v -2.55381 h -0.84073 v -0.61924 z m 2.4641,2.61257 h -1.18424 l -0.18984,0.56048 h -0.80909 l 1.14809,-3.17305 h 0.89496 l 1.14809,3.17305 h -0.81813 z m -0.19888,-0.59664 -0.39324,-1.16165 -0.38872,1.16165 z m 3.57603,-0.47008 q 0.27572,0.0588 0.44296,0.27572 0.16724,0.21244 0.16724,0.48816 0,0.39776 -0.28024,0.6328 -0.27572,0.23052 -0.77292,0.23052 h -1.47805 v -3.17305 h 1.42833 q 0.48364,0 0.75484,0.22148 0.27572,0.22148 0.27572,0.60116 0,0.28025 -0.14916,0.46557 -0.14464,0.18532 -0.38872,0.25764 z m -1.14809,-0.26216 h 0.50624 q 0.18985,0 0.28929,-0.0814 0.10396,-0.0859 0.10396,-0.24861 0,-0.16272 -0.10396,-0.2486 -0.0994,-0.0859 -0.28929,-0.0859 h -0.50624 z m 0.56952,1.2656 q 0.19437,0 0.29833,-0.0859 0.10848,-0.0904 0.10848,-0.25764 0,-0.16724 -0.113,-0.26216 -0.10848,-0.0949 -0.30285,-0.0949 h -0.56048 v 0.7006 z"
          id="text377"
