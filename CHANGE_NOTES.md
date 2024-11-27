@@ -17,6 +17,7 @@ Additionally, these are titled "Package #" because they signify when the project
  - Add `space_text` and `space_text_small` (light and dark) to disambiguate space bar prompt. [#10](https://github.com/mr-breakfast/mrbreakfasts_free_prompts/issues/10)
  - Add Steam Deck light style. [#19](https://github.com/mr-breakfast/mrbreakfasts_free_prompts/issues/19)
  - Add gyroscope prompts. [#6](https://github.com/mr-breakfast/mrbreakfasts_free_prompts/issues/6)
+ - Add PS5 touch. [#21](https://github.com/mr-breakfast/mrbreakfasts_free_prompts/issues/21)
 
 ### Package 1
  - Initialized project 
