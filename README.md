@@ -64,24 +64,34 @@ You will need to install the following:
 
 If you intend to submit a pull request, please organize your work under the correct layers, and make sure your paths are properly grouped and named.
 
-Groups begin with the vender name `xbox`, then the name of the button `y`, and then whatever other attributes apply. `color` if it's a colored button, and `dark` or `light` depending on the scheme it follows:
+#### Naming groups
+The name of the group becomes the name of exported asset. The naming scheme is `{vender}_{title}_{tags}`. For example if the vendor is `xbox`, the title of the button `y`, and is a light-style button with a colored fill, then it is named `xbox_y_color_dark`. The names of existing buttons can be a good reference.
 
-> `vender_title_tags`
+> [!IMPORTANT]
+> Use full names rather than glyphs in titles
+>
+> EX: the semicolon key would not be titled `:_light`, it would be titled `semicolon_light`.
 > 
-> Example: `xbox_y_color_dark`
+> This is important to avoid unallowed file names (See [#4](https://github.com/mr-breakfast/mrbreakfasts_free_prompts/issues/4). It also looks better.)
 
 #### Exporting Changes
 After you've made your changes to the `inputs.svg` source file, you'll need to update the corresponding files.  
 
 Let's begin with exporting the individual SVG files as this has the most steps:
-1. Make a temporary duplicate of `inputs.svg`, and navigate to that file
+1. Make a temporary duplicate of `inputs.svg`, and open that file in Inkscape
 2. Click 'Select All in All Layers' to select all the individual prompts
 3. Navigate to the 'Path' menu and click 'Object to Path' or use `Shift+Control+C`
-4. Using batch export, ensure the background color is transparent, format is Plain SVG, overwrite is enabled, and that there is no prefix appended to the file name. Export to `~/svg`
+4. Using batch export, ensure the background color is transparent, format is Plain SVG, overwrite is enabled, and that there is no prefix appended to the file name.
+5. Export to `~/svg`
 
-The individual PNGs are done similarly. Select all, and export the prompts at 96DPI to `~png`.
+The individual PNGs are done similarly: 
+1. Select all
+2. Export the prompts at 96DPI to `~png`.
 
-Again, select 'Layers' in Batch Export, and export layers to `~/atlases`.
+Atlases:
+1. Select all layes
+2. Select 'Layers' in Batch Export
+3. Export layers to `~/atlases`.
 
 Finally, find the preview image sources in `~/previews/src`. Copy/paste the changed prompts to the places they belong. Next, export the previews at 96DPI to `~/previews`.
 
